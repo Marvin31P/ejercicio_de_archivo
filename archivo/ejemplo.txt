@@ -1,0 +1,4 @@
+nombre marvin perez
+edad 23
+estudiante de ingenieria 
+ejercicio 4
